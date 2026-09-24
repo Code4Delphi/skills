@@ -1,4 +1,4 @@
-# Skills - Habilidades
+# Skills - Habilidades (Exemplos)
 
 É um conjunto reutilizável de instruções que ensina o agente a executar uma tarefa específica.
 
