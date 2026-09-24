@@ -1,0 +1,4 @@
+interface:
+  display_name: "Validar Refatoração Git"
+  short_description: "Audita riscos nas alterações locais do Git"
+  default_prompt: "Use $c4d-validar-refatoracao-git para revisar as alterações locais e avaliar se a refatoração está segura para commit ou deploy."

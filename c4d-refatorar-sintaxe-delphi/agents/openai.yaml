@@ -1,0 +1,4 @@
+interface:
+  display_name: "Refatorar Sintaxe Delphi"
+  short_description: "Padroniza sintaxe Delphi e validações obrigatórias"
+  default_prompt: "Use $c4d-refatorar-sintaxe-delphi para refatorar este código Delphi conforme os padrões do projeto."
